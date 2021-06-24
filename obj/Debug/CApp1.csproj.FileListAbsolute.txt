@@ -1,0 +1,7 @@
+C:\Users\MasterWin\Desktop\.Net\CApp1\bin\Debug\CApp1.exe.config
+C:\Users\MasterWin\Desktop\.Net\CApp1\bin\Debug\CApp1.exe
+C:\Users\MasterWin\Desktop\.Net\CApp1\bin\Debug\CApp1.pdb
+C:\Users\MasterWin\Desktop\.Net\CApp1\obj\Debug\CApp1.csproj.AssemblyReference.cache
+C:\Users\MasterWin\Desktop\.Net\CApp1\obj\Debug\CApp1.csproj.CoreCompileInputs.cache
+C:\Users\MasterWin\Desktop\.Net\CApp1\obj\Debug\CApp1.exe
+C:\Users\MasterWin\Desktop\.Net\CApp1\obj\Debug\CApp1.pdb
